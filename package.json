@@ -11,8 +11,6 @@
     "genMerkleTree": "node scripts/genMerkleTree.js"
   },
   "devDependencies": {
-    "crypto": "^1.0.1",
-    "ethers": "6",
     "keccak256": "^1.0.6"
   }
 }
